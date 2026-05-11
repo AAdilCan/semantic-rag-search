@@ -12,8 +12,8 @@ numpy==1.26.4
 pandas==2.2.2
 pydantic==2.7.1
 
-# LLM integration
-anthropic==0.30.0
+# LLM integration (local via Ollama — free, no API key needed)
+ollama==0.3.3
 python-dotenv==1.0.1
 
 # CLI
