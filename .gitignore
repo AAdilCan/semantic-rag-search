@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+.venv/
+pip-wheel-metadata/
+*.egg-link
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data (raw downloads — can be large)
+data/raw/
+data/cache/
+*.jsonl.gz
+
+# Model artifacts
+*.bin
+*.pt
+*.pth
+*.safetensors
+faiss_index/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Claude / AI artifacts
+.claude/
+CLAUDE.md
