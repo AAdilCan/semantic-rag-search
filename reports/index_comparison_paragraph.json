@@ -1,0 +1,12 @@
+{
+  "strategy": "paragraph",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "n_chunks": 995,
+  "dimension": 384,
+  "n_lists": 31,
+  "n_probe": 8,
+  "flat_latency_ms": 0.007,
+  "ivf_latency_ms": 0.007,
+  "ivf_recall_at_10": 0.924,
+  "n_test_queries": 50
+}

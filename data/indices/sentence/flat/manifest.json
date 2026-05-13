@@ -1,0 +1,10 @@
+{
+  "index_type": "FlatIP",
+  "n_vectors": 1283,
+  "dimension": 384,
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "strategy": "sentence",
+  "build_time_sec": 0.00023608404444530606,
+  "n_lists": null,
+  "n_probe": null
+}

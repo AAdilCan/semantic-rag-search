@@ -1,0 +1,10 @@
+{
+  "index_type": "IVFFlat",
+  "n_vectors": 995,
+  "dimension": 384,
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "strategy": "paragraph",
+  "build_time_sec": 0.0038350839749909937,
+  "n_lists": 31,
+  "n_probe": 8
+}
