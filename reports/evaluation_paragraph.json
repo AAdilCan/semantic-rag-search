@@ -1,0 +1,13 @@
+{
+  "strategy": "paragraph",
+  "n_pairs": 150,
+  "top_k": 10,
+  "retrieval": {
+    "hit@1": 0.04,
+    "hit@3": 0.9467,
+    "hit@5": 0.9667,
+    "hit@10": 0.98,
+    "mrr": 0.4965,
+    "n_queries": 150
+  }
+}
